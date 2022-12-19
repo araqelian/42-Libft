@@ -60,6 +60,8 @@ You &nbsp;must &nbsp;write &nbsp;your &nbsp;own &nbsp;function &nbsp;implementin
 <td>strlen</td>
 <td>memset</td>
 <td>bzero</td>
+</tr>
+<tr>
 <td>memcpy</td>
 <td>memmove</td>
 <td>strlcpy</td>
