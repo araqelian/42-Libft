@@ -70,9 +70,9 @@ You &nbsp;must &nbsp;write &nbsp;your &nbsp;own &nbsp;function &nbsp;implementin
 <td>memcmp</td>
 <td>strnstr</td>
 <td>atoi</td>
-<td>strdup</td>
 </tr>
 <tr>
+<td>strdup</td>
 <td>calloc</td>
 <td>toupper</td>
 <td>tolower</td>
