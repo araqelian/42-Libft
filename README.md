@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Description</td>
-    <td>Write&nbsp;&nbsp;your&nbsp;&nbsp;own&nbsp;&nbsp;library:&nbsp;&nbsp;a&nbsp;&nbsp;collection&nbsp;&nbsp;of&nbsp;&nbsp;functions&nbsp;&nbsp;that&nbsp;&nbsp;will&nbsp;&nbsp;be&nbsp;&nbsp;a&nbsp;&nbsp;useful&nbsp;&nbsp;tool&nbsp;&nbsp;for&nbsp;&nbsp;your&nbsp;&nbsp;cursus</td>
+    <td>Write&nbsp;&nbsp;your&nbsp;&nbsp;own&nbsp;&nbsp;library:&nbsp;&nbsp;a&nbsp;&nbsp;collection&nbsp;&nbsp;of&nbsp;&nbsp;functions&nbsp;&nbsp;that&nbsp;&nbsp;will&nbsp;&nbsp;be&nbsp;&nbsp;a&nbsp;&nbsp;useful&nbsp;&nbsp;tool&nbsp;&nbsp;for&nbsp;&nbsp;your cursus</td>
   </tr>
 </table>
 <br>
