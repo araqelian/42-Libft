@@ -40,6 +40,7 @@
   <li>Your&nbsp;&nbsp;libft.a&nbsp;&nbsp;has&nbsp;&nbsp;to&nbsp;&nbsp;be&nbsp;&nbsp;created&nbsp;&nbsp;at&nbsp;&nbsp;the&nbsp;&nbsp;root&nbsp;&nbsp;of&nbsp;&nbsp;your&nbsp;&nbsp;repository
 </ul>
 </p>
+<br>
 <p>
 <h2>Part&nbsp;&nbsp;1&nbsp;&nbsp;-&nbsp;&nbsp;Libc&nbsp;&nbsp;functions</h2>
 <p>
