@@ -66,6 +66,11 @@ You &nbsp;must &nbsp;write &nbsp;your &nbsp;own &nbsp;function &nbsp;implementin
 <td>memmove</td>
 <td>strlcpy</td>
 <td>strlcat</td>
+<td>memchr</td>
+<td>memcmp</td>
+<td>strnstr</td>
+<td>atoi</td>
+<td>strdup</td>
 </tr>
 <tr>
 <td>calloc</td>
@@ -74,11 +79,6 @@ You &nbsp;must &nbsp;write &nbsp;your &nbsp;own &nbsp;function &nbsp;implementin
 <td>strchr</td>
 <td>strrchr</td>
 <td>strncmp</td>
-<td>memchr</td>
-<td>memcmp</td>
-<td>strnstr</td>
-<td>atoi</td>
-<td>strdup</td>
 </tr>
 </table>
 <br>
