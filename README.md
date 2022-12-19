@@ -1,4 +1,4 @@
-# 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;Libft
+# 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Libft
 
 <br><br>
 <table>
