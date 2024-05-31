@@ -15,11 +15,9 @@
 void	*ft_calloc(size_t count, size_t size)
 {
 	char	*str;
-	size_t	i;
 	size_t	len;
 
 	len = count * size;
-	i = 0;
 	str = malloc(len);
 	if (!str)
 		return (0);
