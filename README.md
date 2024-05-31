@@ -735,3 +735,11 @@ In &nbsp;your&nbsp; Makefile, &nbsp;add &nbsp;a &nbsp;make &nbsp;bonus &nbsp;rul
 &nbsp;the &nbsp;function &nbsp;’f’. &nbsp;The &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>’del’ &nbsp;function &nbsp;is &nbsp;used &nbsp;to &nbsp;delete &nbsp;the &nbsp;content &nbsp;of &nbsp;a &nbsp;node &nbsp;if &nbsp;needed.</td>
   </tr>
 </table>
+
+<br><br>
+
+> [!NOTE]  
+> Because of 42 School norm requirements:
+> * Each function can't have more than 25 lines of code.
+> * All variables are declared and aligned at the top of each function.
+> * Project should be created just with allowed functions otherwise it's cheating.
