@@ -1,4 +1,4 @@
-# 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Libft
+<h1 align="center"> 🗣 Subject &nbsp;&nbsp;&nbsp;&nbsp;Libft </h1>
 
 <br><br>
 <table>
